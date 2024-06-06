@@ -78,6 +78,10 @@ PACKAGES="
   libxfixes3
   libxi6
   libxinerama1
+  libxrandr2
+  libxshmfence1
+  libxss1
+  libxtst6
   fonts-liberation
   xvfb
 "
