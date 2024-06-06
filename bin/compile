@@ -82,7 +82,6 @@ PACKAGES="
   libxshmfence1
   libxss1
   libxtst6
-  fonts-liberation
   xvfb
 "
 APT_OPTIONS="-o debug::nolocking=true -o dir::cache=$APT_CACHE_DIR -o dir::state=$APT_STATE_DIR"
